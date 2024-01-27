@@ -16,5 +16,5 @@ Data- Separated into Original and Prepared Data. These contain the original data
 
 Scripts: Contains all the Python coding involved for the entire analysis process Analysis: Contains the Visualizations used for developing insights
 
-Visualizations
-All the visualizations and some of the analysis can be found on Tableau Public server - https://public.tableau.com/app/profile/arushi.m3379/viz/CitiBikeAnalysis_17063347200090/Story1?publish=yes
+**Visualizations**
+Visualizations of the analysis can be found on Tableau Public server - https://public.tableau.com/app/profile/arushi.m3379/viz/CitiBikeAnalysis_17063347200090/Story1?publish=yes
